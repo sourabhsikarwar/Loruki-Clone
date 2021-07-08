@@ -380,7 +380,7 @@ img{
     }
     .showcase-form{
         justify-self: center;
-        width: 350px ;
+        width: 92%;
         animation: slideInFromBottom 1s ease-in;
     }
     .cli .grid img{
